@@ -32,7 +32,7 @@ Aqui está uma imagem de como o carrossel se parece:
 
 ## Créditos
 
-Este projeto foi inspirado no tutorial do canal **Devclub**, que pode ser encontrado [aqui](#) (https://www.youtube.com/@canaldevclub).  
+Este projeto foi inspirado no tutorial do canal **Devclub**, que pode ser encontrado aqui (https://www.youtube.com/@canaldevclub).  
 Embora tenha sido baseado no tutorial, todo o código foi escrito manualmente por mim, para garantir melhor aprendizado e prática.
 
 ## Licença
