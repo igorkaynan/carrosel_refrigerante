@@ -27,6 +27,7 @@ Este é um projeto simples de carrossel de imagens de refrigerantes, desenvolvid
 ## Exemplo Visual
 
 Aqui está uma imagem de como o carrossel se parece:
+![Capturar](https://github.com/user-attachments/assets/ac566144-c420-4aae-960d-1508ca88fe84)
 
 > **Nota:** Certifique-se de que todos os arquivos (HTML, CSS, JS e imagem) estejam na mesma pasta para que o projeto funcione corretamente.
 
