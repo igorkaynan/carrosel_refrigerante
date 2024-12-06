@@ -5,7 +5,7 @@ Este é um projeto simples de carrossel de imagens de refrigerantes, desenvolvid
 ## Funcionalidades
 
 - O carrossel é uma ferramenta interativa que exibe imagens ou conteúdos de forma dinâmica em sites, como e-commerces e portfólios.
-- Botões de navegação para avançar e retroceder.
+- Botões de navegação para alternar entre os slides.
 - Design responsivo.
 
 ## Tecnologias Utilizadas
